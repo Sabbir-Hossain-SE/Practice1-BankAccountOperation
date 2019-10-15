@@ -1,0 +1,10 @@
+C:\Users\Gili Gili\source\repos\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.exe.config
+C:\Users\Gili Gili\source\repos\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.exe
+C:\Users\Gili Gili\source\repos\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.pdb
+C:\Users\Gili Gili\source\repos\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.csprojAssemblyReference.cache
+C:\Users\Gili Gili\source\repos\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.AccountOperation.resources
+C:\Users\Gili Gili\source\repos\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.Properties.Resources.resources
+C:\Users\Gili Gili\source\repos\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.csproj.GenerateResource.cache
+C:\Users\Gili Gili\source\repos\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.csproj.CoreCompileInputs.cache
+C:\Users\Gili Gili\source\repos\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.exe
+C:\Users\Gili Gili\source\repos\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.pdb
